@@ -13,4 +13,4 @@
 <br>
 <h3>Desktop e Smartphone.</h3>
 <img src="https://github.com/itcgrillo/We-Care/blob/master/assets/Captura%20de%20tela%202023-09-27%20145249.png?raw=true" />
-<img src="" />
+<img src="https://github.com/itcgrillo/We-Care/blob/master/assets/Captura%20de%20tela%202023-09-27%20145309.png?raw=true" />
